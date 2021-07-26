@@ -1,6 +1,6 @@
 # kirma
 Multi-script for Roblox, included OwlHub &amp; Unnamed Esp      
-Visuals module uses Drawing library
+Visuals module uses Drawing library from Synapse api
 
 
 Script
