@@ -1,6 +1,6 @@
 # kirma
-Multi-script for Roblox, included OwlHub &amp; Unnamed Esp load support         
-Visuals module needs Drawing library
+Multi-script for Roblox, included OwlHub &amp; Unnamed Esp      
+Visuals module using Drawing library
 
 
 Script
