@@ -10,5 +10,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/swidelip/kirma/main/k
 ```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78678868/125957149-86c9509a-a9a2-4ee3-a001-61f4525e52d1.png">
+  <img src="https://user-images.githubusercontent.com/78678868/127152910-9e5fb396-5b35-4b89-a06b-89f6db109ed9.png">
 </p>
